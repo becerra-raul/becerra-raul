@@ -66,10 +66,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=becerra-raul&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=becerra-raul&theme=dark&background=000000)
 
 ![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=becerra-raul&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becerra-raul&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=becerra-raul&layout=compact&theme=vision-friendly-dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=becerra-raul&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=juicyfresh)](https://github.com/becerra-raul/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=becerra-raul&rank=A,AA,AAA,S,SS,SSS,SECRET&theme=juicyfresh)
