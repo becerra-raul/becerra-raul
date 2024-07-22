@@ -16,13 +16,20 @@
 
 ### :man_technologist: About Me :
 I am a senior software engineer for ten years. I have got experience in everything from simple websites to full-scale applications for large companies.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+With my ability to quickly identify third-party applications, vendor technical specifications and guides, I have a proven track record of teamwork, initiative, and ownership to drive processes and solve problems, combined with strong leadership, mentoring, coaching, and motivation skills. 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+I value the quality of code and I always write clean, maintainable, scalable, and testable code. I have excellent communication skills and the ability to interact professionally with a diverse group, executives, managers, and subject matter experts.
 
-- :mailbox:How to reach me: becerraraul0226@gmail.com
+I proficient at:
+
+:rocket: Building websites & web applications, mobile app that are fast, optimized and spec compliant.
+
+:dart: Developing software solutions for complex problems.
+
+:trophy: Writing high-quality, clean code that follows today’s best practices.
+
+:1st_place_medal: Creating APIs, tools, and databases that are organized and easy for you, your clients & others to work with.
 
 ---
 <div align="center">
